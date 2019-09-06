@@ -1,1 +1,1 @@
-It is a reality that companies need email lists in order to increase their revenue. This project is an HTML email that is cross email compatible. Tested with Litmus, this email provides a personal touch to the daily outreach that companies can make to their consumers/ potential costumers.
+This project is an HTML email that is cross email compatible. Tested with Litmus, this email provides a personal touch to the daily outreach that companies can make to their consumers/ potential costumers.
